@@ -2,14 +2,24 @@
 <html lang="en">
   <head>
     <title>CSTECHWORK</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <?php include_once "templates/headlink.php" ?>
+
   </head>
   <body>
   
-    <h1>Hello World</h1>
+  <?php include_once "templates/navbar.php" ?>
+
   
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  <div class="divbg " style="background-image: url(/images/bg.jpg);"></div>
+  <div class="opacityedit"></div>
+  
+  <div class="hedit">
+    <h1>Welcome to CSTECHWORK</h1><br>
+    <h2>A Software Engineer. I Help Startups Launch And Grow Their Products</h2><br>
+    <a href="#" class="hmbtn">About me</a>
+  </div>
+
+  <?php include_once "templates/b4jq.php" ?>
+  
   </body>
-</html>
+</html> 

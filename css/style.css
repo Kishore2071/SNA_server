@@ -1,0 +1,80 @@
+.navbg{
+    height: 80px;
+}
+
+/* .navpadding{
+    text-decoration: none;
+    display:inline-block;
+    padding: 15px 25px;
+    text-color: #F5F5F5;    
+} */
+
+ul li{
+    float: left;
+    padding: 15px 40px;
+}
+
+ul a{
+    text-decoration: none;
+    display: inline-block;
+    color: #e1e0e0;
+}
+
+ul a:hover,ul li:hover{
+    color: white;
+    background-color: grey  ;
+}
+
+.divbg{
+    height: 70%;
+    width: 100%;
+    position: fixed;
+    background: url("/images/bg.jpg") no-repeat center;
+    background-size: cover;
+    z-index: 1;
+}
+
+.opacityedit{
+    background-color: #000;
+    height: 70%;
+    opacity: .25;
+    position: absolute;
+    width: 100%;
+    z-index: 2;
+}
+
+
+.hedit{
+    position: relative;
+    z-index: 3;
+    color: white;
+    font-family: Avenir;
+    font-size: 50px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 900;
+    letter-spacing: normal;
+    line-height: 1.29;
+    text-align: center;
+    margin-top: 10%;
+}
+
+.hmbtn{
+    margin-top: 50px;
+    font-size: 40px;
+    background-color: #edededb1;
+    text-align: center;
+    color: black;
+    font-family: ProximaNova;
+    padding: 10px;
+    text-align: center;
+    z-index: 3;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+.hmbtn:hover{
+    text-decoration: none;
+    color: #000;
+
+}
