@@ -10,8 +10,8 @@
 } */
 
 ul li{
-    float: left;
-    padding: 15px 40px;
+    float: right;
+    padding: 10px 30px;
 }
 
 ul a{
@@ -22,7 +22,6 @@ ul a{
 
 ul a:hover,ul li:hover{
     color: white;
-    background-color: grey  ;
 }
 
 .divbg{
@@ -62,7 +61,7 @@ ul a:hover,ul li:hover{
 .hmbtn{
     margin-top: 50px;
     font-size: 40px;
-    background-color: #edededb1;
+    background-color: #EDEDED;
     text-align: center;
     color: black;
     font-family: ProximaNova;
@@ -73,8 +72,8 @@ ul a:hover,ul li:hover{
     border: 2px solid black;
 }
 
-.hmbtn:hover{
+.hmbtn:hover, .hmbtn:active{
     text-decoration: none;
-    color: #000;
-
+    background-color: #f6f4f4;
+    color: black;
 }
