@@ -1,4 +1,3 @@
-
 .navbg{
     height: 80px;
 }
@@ -75,6 +74,78 @@ ul a:hover,ul li:hover{
     color: black;
 }
 
-.body{
-    background  : #343A40;
+
+.content{
+    margin: 250px;
+    margin-top: 150px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.content h1{
+    font-family: Avenir;
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.abt{
+    height: 670px;
+    position: absolute;
+    width: 1000px;
+    padding-top:135px;
+    padding-left: 150px;
+    padding-right: 350px;
+}
+
+.abtimg{
+    margin-left: 730px;
+    margin-top: 80px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    position: relative;
+        
+}
+.cardbtn{
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+.cardbtn:hover{
+    border: 5px solid black;
+}
+
+.plxbtn{
+    height: 60px;
+    width: 200px;
+    font-size: 25px;
+    background-color: #343A40;
+    text-decoration: none;
+    display: inline-block;
+    color: #e1e0e0;
+    font-family: ProximaNova;
+    padding: 10px;
+    border-radius: 7px;
+    border: 2px solid #e1e0e0;
+    margin-top: 30px;
+}
+
+.plxbtn:hover, .plxbtn:active{
+    text-decoration: none;
+    background-color: #BABABA;
+    color: black;
+}
+
+.plxtxt{
+    font-family: Avenir;
+    font-size: 50px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 900;
+    letter-spacing: normal;
+    line-height: 1.29;
+    background-color: transparent;
+    opacity: 1;
+    border-radius: 15px;
 }

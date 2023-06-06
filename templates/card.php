@@ -1,7 +1,8 @@
 <div class="container" style="margin-bottom: 100px;">
 	<div class="container">
+
 		<h1
-			style="color:white;font-family: Avenir;font-size: 50px;font-weight: 900;text-align:center;margin-bottom:100px;">
+			style="color:white;font-family: Avenir;font-size: 50px;font-weight: 900;text-align:center;margin-bottom:100px; margin-top:100px;">
 			Services
 		</h1>
 	</div>
