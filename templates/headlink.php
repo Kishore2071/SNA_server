@@ -6,6 +6,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Patua+One&family=Ramabhadra&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/animate.css">
     <style>
     	.parallax {
     		/* The image used */

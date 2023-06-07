@@ -7,7 +7,7 @@
 		</h1>
 	</div>
 	<div class="row">
-		<div class="col-lg-4">
+		<div class="col-lg-4 animate__animated animate__fadeInLeft">
 			<div class="card" style="width: 18rem; color:white; background-color:#202121;">
 				<img class="card-img-top" src="/images/card1.png" alt="Card image cap">
 				<div class="card-body">
@@ -18,7 +18,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-lg-4">
+		<div class="col-lg-4 animate__animated animate__fadeIn">
 			<div class="card" style="width: 18rem; color:white; background-color:#202121;">
 				<img class="card-img-top" src="/images/card2.png" alt="Card image cap">
 				<div class="card-body">
@@ -29,7 +29,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-lg-4">
+		<div class="col-lg-4 animate__animated animate__fadeInRight">
 			<div class="card" style="width: 18rem; color:white; background-color:#202121;">
 				<img class="card-img-top" src="/images/card3.png" alt="Card image cap">
 				<div class="card-body">

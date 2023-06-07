@@ -149,3 +149,31 @@ ul a:hover,ul li:hover{
     opacity: 1;
     border-radius: 15px;
 }
+
+footer{
+    font-family: Avenir;
+    height: 70px;
+    padding: 20px 50px;
+    background-color:rgb(237,237,237);
+}
+
+footer a:hover{
+    color: blue;
+}
+
+.right{
+    float: right;
+    padding-right: 10px;
+    padding-left: 10px;
+    
+}
+
+.right a{
+    font-family: Avenir;
+    color: #343A40;
+    text-decoration: none;
+}
+
+.right a:hover{
+    color: #000;
+}
