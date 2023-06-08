@@ -96,16 +96,23 @@ ul a:hover,ul li:hover{
     padding-left: 150px;
     padding-right: 350px;
 }
+.name{
+    font-size: 35px; font-weight: 555;
+}
 
 .abtimg{
     margin-left: 730px;
     margin-top: 80px;
-    background-attachment: fixed;
     background-size: cover;
     background-position: 50%;
     background-repeat: no-repeat;
     position: relative;
         
+}
+.abtp{
+    font-family: ProximaNova;
+    font-size: 20px; 
+    line-height: 1.56;
 }
 .cardbtn{
     font-weight: 400;

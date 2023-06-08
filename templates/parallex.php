@@ -1,4 +1,4 @@
-<div class="parallax" style="text-align: center;">
+<div class="parallax plx" style="text-align: center;">
 	<div style="padding-top: 150px;">
 		<div class="container plxtxt">
 			<h2>My main focus these days is building products and leading projects for our clients to launch and
